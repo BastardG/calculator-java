@@ -1,1 +1,1 @@
-# calculator-java
+# Java CMD calculator
